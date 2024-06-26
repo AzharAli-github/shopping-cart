@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Shirt",
+        "description": "Mens Shirt",
+        "price": 2000,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/shirtOne.png"
+    },
+    {
+        "id": 2,
+        "name": "Shirt",
+        "description": "Mens Shirt",
+        "price": 3000,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/shirtTwo.png"
+    },
+    {
+        "id": 3,
+        "name": "Shirt",
+        "description": "Mens Shirt",
+        "price": 2500,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/shirtThree.png"
+    },
+    {
+        "id": 4,
+        "name": "jacket",
+        "description": "Mens Jacket",
+        "price": 4000,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/jacket.png"
+    },
+    {
+        "id": 5,
+        "name": "cap",
+        "description": "Cap",
+        "price": 1000,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/cap.png"
+    },
+    {
+        "id": 6,
+        "name": "pent",
+        "description": "Mens Pent",
+        "price": 2000,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/pentOne.png"
+    },
+    {
+        "id": 7,
+        "name": "Pent",
+        "description": "Mens Pent",
+        "price": 2500,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/pentTwo.png"
+    },
+    {
+        "id": 8,
+        "name": "Hoody",
+        "description": "Hoody",
+        "price": 3500,
+        "imgSrc": "https://raw.githubusercontent.com/AzharAli-github/product-images/main/hoody.png"
+    }
+]

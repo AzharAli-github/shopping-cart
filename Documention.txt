@@ -1,0 +1,17 @@
+1. Use the following hooks:
+   --> useState
+   --> useEffect
+   --> customHook
+
+2. Build a Shopping Cart and fetch the product's list from 
+    local host server.
+
+3. Fetch the list of products in customHook and then use it 
+    to render the list of products in the component.
+
+4. By adding the product into the cart the numbers should increase,
+   and by removing the product it should decrease the number of 
+   products in the cart
+
+5.  By clicking on the title of the Product it should open its own 
+     Page, and there should also be the option of Add to Cart      Button. and it should be same for all the products
